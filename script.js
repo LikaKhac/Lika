@@ -165,3 +165,4 @@ function gameQuit() {
   window.close()
   location.reload()
 }
+//test
